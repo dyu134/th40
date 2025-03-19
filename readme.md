@@ -1,6 +1,6 @@
 # EPOMAKER TH40
 
-A customizable 40key keyboard.
+A customizable 40-key keyboard.
 
 [EPOMAKER TH40](https://raw.githubusercontent.com/Linyer-qwq/image/main/EPOMAKERTH40.jpg)
 
