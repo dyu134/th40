@@ -2,7 +2,7 @@
 
 A customizable 40key keyboard.
 
-[EPOMAKER TH40](https://raw.githubusercontent.com/Linyer-qwq/image/main/EPOMAKER TH40.jpg)
+[EPOMAKER TH40](https://raw.githubusercontent.com/Linyer-qwq/image/main/EPOMAKERTH40.jpg)
 
 * Keyboard Maintainer: [EPOMAKER](https://github.com/Epomaker)
 * Hardware Supported: EPOMAKER TH40 PCB with es32fs026 microcontroller
